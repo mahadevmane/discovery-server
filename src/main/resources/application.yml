@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: DISCOVERY_SERVER
+    name: discovery-server
 
 eureka:
   client:
